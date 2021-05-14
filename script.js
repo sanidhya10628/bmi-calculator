@@ -25,7 +25,7 @@ function func() {
         document.getElementById("result").innerHTML = "Obese " + bmi;
     }
 
-    console.log(a);
-    console.log(b);
-    console.log("sanidhya");
+    // console.log(a);
+    // console.log(b);
+    // console.log("sanidhya");
 }
